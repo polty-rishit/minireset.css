@@ -33,6 +33,8 @@ It will be available in your modules directory in `/node_modules/minireset.css/`
 
 [GitHub CDN for minireset.min.css](https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css)
 
+<p>Browser testing via <a href="https://www.lambdatest.com/" target="_blank"><img src="https://www.lambdatest.com/support/img/logo.svg" style="vertical-align: middle;margin-left:5px" width="147" height="26" /></a></p>
+
 ## Copyright and license
 
 Code copyright 2019 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/minireset.css/blob/master/LICENSE).
